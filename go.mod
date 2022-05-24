@@ -1,0 +1,5 @@
+module github.com/basic
+
+go 1.16
+
+require github.com/mattn/go-sqlite3 v1.14.13
